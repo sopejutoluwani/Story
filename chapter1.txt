@@ -1,0 +1,1 @@
+check what bash command is used to open files on windows.
